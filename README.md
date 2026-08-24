@@ -6,13 +6,13 @@ Identify sales trends and performance.
 Understand product and outlet performance.
 Generate useful business insights.
 
-3. Tools & Technologies
+2. Tools & Technologies
 Power BI – Dashboard and data visualization
 Power Query – Data cleaning and transformation
 DAX – Calculations and measures
 Microsoft Excel – Data source and initial data preparation
 
-4. Key Analysis:
+3. Key Analysis:
 Total Sales
 Average Sales
 Number of Items
@@ -22,8 +22,8 @@ Sales by Item Category
 Sales by Outlet Type
 Sales trends and customer-related insights
 
-5. Dashboard
+4. Dashboard
 Mention that the project includes an interactive Power BI dashboard with charts, KPIs, filters, and visualizations.
 
-6. Conclusion:
+5. Conclusion:
 This project demonstrates how Power BI can be used to transform sales data into interactive visualizations and meaningful business insights for better decision-making
