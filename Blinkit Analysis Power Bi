@@ -1,0 +1,123 @@
+Blinkit Sales Analysis Dashboard – Power BI
+
+📌 Project Overview
+
+This project presents an interactive Blinkit Sales Analysis Dashboard developed using Microsoft Power BI. The main purpose of the project is to understand sales performance across different outlet types, outlet sizes, locations, and product categories.
+The dashboard converts raw sales data into meaningful visual insights so that business performance can be understood quickly and easily. It focuses on identifying important sales patterns and comparing different outlet characteristics.
+
+🎯 Project Objectives
+
+The major objectives of this project are:
+Analyze overall sales performance.
+Understand how outlet type affects sales.
+Analyze the relationship between outlet size and total sales.
+Study sales distribution across different outlet locations.
+Compare important business metrics across outlet types.
+Identify product categories contributing to overall sales.
+Present the findings through an interactive and easy-to-understand Power BI dashboard.
+
+🛠️ Tools & Technologies Used
+
+Microsoft Power BI – Data visualization and dashboard development
+Power Query – Data cleaning and transformation
+DAX – Creating calculated measures and KPIs
+Excel/CSV Dataset – Source data
+GitHub – Project documentation and version control
+
+📊 Dashboard Analysis
+
+The dashboard contains multiple visualizations designed to answer important business questions.
+
+1. Sales by Item Type
+Objective:
+Analyze total sales across different item/product types and identify the categories contributing the most to overall revenue.
+Chart Type: Bar/Column Chart
+
+2. Sales by Outlet Type
+Objective:
+Compare sales performance between different outlet types and understand which outlet type generates higher sales.
+Chart Type: Bar/Column Chart
+
+3. Sales by Fat Content
+Objective:
+Analyze sales based on the fat-content classification of products and understand customer purchasing patterns.
+Chart Type: Donut/Pie Chart
+
+4. Sales by Outlet Establishment Year
+Objective:
+Analyze how sales have changed according to the year in which outlets were established.
+Chart Type: Line Chart
+
+5. Sales by Outlet Size
+Objective:
+Analyze the correlation between outlet size and total sales and identify which outlet size contributes the most to revenue.
+Chart Type: Donut/Pie Chart
+
+6. Sales by Outlet Location
+Objective:
+Assess the geographic distribution of sales across different outlet locations and understand the contribution of each location.
+Chart Type: Funnel/Map Visualization
+
+7. All Metrics by Outlet Type
+Objective:
+Provide a detailed comparison of important business metrics across different outlet types.
+Chart Type: Matrix/Table or Comparison Visualization
+
+📌 Key KPIs
+
+The dashboard provides important performance indicators such as:
+Total Sales
+Average Sales
+Number of Items
+Average Rating
+Outlet Count
+
+These KPIs provide a quick overview of the overall business performance.
+
+💡 Business Insights
+The dashboard helps identify several useful patterns:
+Sales performance varies across different outlet types.
+Outlet size has an important relationship with overall sales.
+Different locations contribute differently to total revenue.
+Product/item categories show different levels of customer demand.
+Outlet establishment year can be used to understand sales trends over time.
+Comparing multiple metrics by outlet type helps identify stronger-performing outlet segments.
+
+The dashboard can therefore support better decision-making related to outlet performance, product demand, and sales strategy.
+
+📈 Dashboard Features
+The Power BI dashboard is designed to be interactive and user-friendly.
+
+Users can:
+Filter the dashboard using available slicers.
+Compare different outlet types.
+Analyze sales based on outlet size and location.
+Explore product-level sales performance.
+View multiple KPIs in one place.
+Identify trends and patterns through interactive charts.
+
+🔄 Project Workflow
+
+The project was completed using the following workflow:
+Raw Dataset → Data Cleaning → Data Transformation → DAX Measures → Data Visualization → Interactive Dashboard → Business Insights
+🧠 What I Learned
+Through this project, I gained practical experience in:
+Importing and cleaning data using Power BI.
+Transforming data using Power Query.
+Creating calculated measures using DAX.
+Selecting suitable visualizations for different business questions.
+Building an interactive dashboard.
+
+Analyzing sales data from different business perspectives.
+Communicating data-driven insights in a simple and professional way.
+
+🏁 Conclusion
+The Blinkit Sales Analysis Dashboard provides a clear view of sales performance across products, outlet types, outlet sizes, establishment years, and locations.
+By combining KPIs with interactive visualizations, the dashboard makes it easier to understand business performance and identify areas that may require attention. This project demonstrates how Power BI can transform raw business data into meaningful and actionable insights.
+
+👩‍💻 Project Author
+Alekhya Reddy
+
+Project: Blinkit Sales Analysis Dashboard
+Tool: Microsoft Power BI
+Platform: GitHub
